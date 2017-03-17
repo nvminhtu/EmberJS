@@ -1,13 +1,13 @@
 # EMBER JS - TUTORIAL
-Đây là phần tổng hợp EMBERJS, chia sẻ demo, kinh nghiệm, các vấn đề gặp phải và cách giải quyết cũng như chia sẽ các tài nguyên cho việc làm việc với EMBERJS
+Đây là phần tổng hợp EMBERJS, chia sẻ demo, kinh nghiệm, các vấn đề gặp phải và cách giải quyết cũng như chia sẻ các tài nguyên cho việc làm việc với EMBERJS
 
 ### Lý do sử dụng Ember JS
 
 Ưu điểm:
 * Ember JS luôn đi đầu trong các javascript hiện nay (ReactJS, AngularJS, VueJS).
 * Không nổi tiếng bằng các anh AngulaJS (Google), React JS (Facebook).... nhưng Ember JS luôn hỗ trợ tối ưu cho Developer, nhất là thị trường Bắc Mỹ và Bắc Âu.  
-* Đơn cử: EmberJS đã có CLI riêng từ rất lâu - cách đây hơn 3 năm thì khi AngularJS 2 ra mắt họ mới tạo CLI riêng.
-* ES6 được tích hợp vào EmberJS ngay những ngày đầu ES6 ra mắt.
+* Đơn cử: EmberJS đã có CLI riêng từ rất lâu - cách đây hơn 3 năm thì khi AngularJS 2 ra mắt năm ngoái họ mới tạo CLI riêng.
+* ES6 được tích hợp vào EmberJS ngay những ngày đầu ES6 ra mắt, tương tự cho trường hợp ES7 - đang beta.
 * EmberJS thay đổi dần trên chính những nền tảng họ tạo ra mà ko phải đập đi xây lại như Angular JS
 * Cộng đồng và plugins, component dày đặc hỗ trợ gần như đầy đủ (Full option) cho developer xài.
 
