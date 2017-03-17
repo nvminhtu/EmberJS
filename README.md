@@ -1,5 +1,5 @@
 # EMBER JS - TUTORIAL
-Đây là phần tổng hợp EMBERJS, chia sẻ demo, kinh nghiệm, các vấn đề gặp phải và cách giải quyết cũng như chia sẻ các tài nguyên cho việc làm việc với EMBERJS
+Đây là phần tổng hợp EMBERJS, chia sẻ demo, kinh nghiệm, các vấn đề gặp phải và cách giải quyết cũng như chia sẻ các tài nguyên làm việc với EMBERJS
 
 ### Lý do sử dụng Ember JS
 
