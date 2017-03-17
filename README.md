@@ -36,6 +36,12 @@ Sẽ cố gắng cập nhật thêm để hoàn thiện nhất có thể.
 
 ### EMBER JS Features
 
+* Getting Started
+* Routing and Templating
+* Models and Services
+* Actions
+* Properties and Components
+
 ### EMBER JS Issues
 
 ### EMBER JS DEMO
