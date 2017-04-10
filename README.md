@@ -1,6 +1,9 @@
 # EMBER JS - TUTORIAL
 Đây là phần tổng hợp EMBERJS, chia sẻ demo, kinh nghiệm, các vấn đề gặp phải và cách giải quyết cũng như chia sẻ các tài nguyên làm việc với EMBERJS
 
+### 1 số command line sử dụng trong EmberJS
+[Cài đặt lại EmberJS](https://github.com/ember-cli/ember-cli/releases)
+
 ### Lý do sử dụng Ember JS
 
 Ưu điểm:
