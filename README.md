@@ -45,11 +45,8 @@ Sẽ cố gắng cập nhật thêm để hoàn thiện nhất có thể.
 * Actions
 * Properties and Components
 
-### EMBER JS Issues
-
-### EMBER JS DEMO
-
-### EMBER JS Projects
+### EMBERJS COMPONENT
+* [Ember Paper](https://github.com/miguelcobain/ember-paper)- Ember paper, create Material Design in EmberJS
 
 
 
