@@ -24,10 +24,7 @@ Tuy nhiên để cụ thể hóa tại sao Ember JS lại tối ưu cho các d�
 
 * React JS gần như được gọi là View, nhưng phát triển mạnh như vũ bão vì tính năng động của nó.
 
-Nhược điểm:
-* Khó phát triển ứng dụng mobile, vì không hỗ trợ nhiều.
-* Không nổi tiếng.
-* ....
+
 
 .... Nếu liệt kê thì hết cả ngày.
 
@@ -48,7 +45,10 @@ Sẽ cố gắng cập nhật thêm để hoàn thiện nhất có thể.
 ### EMBERJS COMPONENT
 * [Ember Paper](https://github.com/miguelcobain/ember-paper)- Ember paper, create Material Design in EmberJS
 
-
+### EMBERJS WEB TOOLS
+* [Ember Observer](https://emberobserver.com/) - Giúp tìm kiếm các addon, component cho EmberJS
+* [Ember Addons](https://www.emberaddons.com/) - Giúp tìm kiếm các addon, component cho EmberJS - phong phú hơn.
+* [NPMJS](https://www.npmjs.com/) - Quản lý các node Package.
 
 **Free Software, Hell Yeah!**
 
