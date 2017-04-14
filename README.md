@@ -50,6 +50,12 @@ Sẽ cố gắng cập nhật thêm để hoàn thiện nhất có thể.
 * [Ember Addons](https://www.emberaddons.com/) - Giúp tìm kiếm các addon, component cho EmberJS - phong phú hơn.
 * [NPMJS](https://www.npmjs.com/) - Quản lý các node Package.
 
+### TUTORIAL for EMBERJS
+* [Create EMBER COMPONENT](https://www.twilio.com/blog/2015/09/creating-web-components-in-emberjs.html) - Create your own EmberJS Component
+* [Definiting EMBER COMPONENT](https://guides.emberjs.com/v1.12.0/components/defining-a-component/) - Defininting EmberJS Component
+* [Create EMBER ADDON]() - Create your own EmberJS Addon
+* [PODs]() - Understanding PODs in EMBERJS
+
 **Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
