@@ -18,3 +18,8 @@ A link in {{#link-to "index"}}Block Expression Form{{/link-to}}
 * [this.get('ajax').request in emberjs](https://github.com/ember-cli/ember-ajax) - Using get Ajax in Ember JS, được cài mặc định trong ember-ajax (đã tích hợp trong ember-cli).
 
 * [Ember Servces](https://guides.emberjs.com/v2.12.0/applications/services/) - An Ember.Service is an Ember object that lives for the duration of the application, and can be made available in different parts of your application.
+
+### Các ghi chú
+* ember destroy (sử dụng cái này để xóa component, route,...).
+* khi khởi tạo 1 component không muốn chạy POD (vì trong source đã setup PODs: true) => thì khi tạo mới:
+ember g component demo-comp --pod (ta sẽ tạo ra Component ko theo dạng POD)
