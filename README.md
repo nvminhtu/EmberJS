@@ -53,8 +53,14 @@ Sẽ cố gắng cập nhật thêm để hoàn thiện nhất có thể.
 ### TUTORIAL for EMBERJS
 * [Create EMBER COMPONENT](https://www.twilio.com/blog/2015/09/creating-web-components-in-emberjs.html) - Create your own EmberJS Component
 * [Definiting EMBER COMPONENT](https://guides.emberjs.com/v1.12.0/components/defining-a-component/) - Defininting EmberJS Component
+* [Understanding EMBER COMPONENT](https://www.danielgynn.com/understanding-ember-components/)- Understanding about EMBER JS Component (Demo with an example EmberJS).
 * [Create EMBER ADDON]() - Create your own EmberJS Addon
 * [PODs]() - Understanding PODs in EMBERJS
+
+### QUESTIONs
+* Where can I find asset folder of an EmberJS app?
+-> Please find it in 'public' folder - where you can name your asset folder in there.
+
 
 **Free Software, Hell Yeah!**
 
