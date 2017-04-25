@@ -30,5 +30,57 @@
   }
 });`
 
+### Data Down, Actions Up
+*
+`export default Ember.Route.extend({
+  actions: {
+    remove(item) {
+      item.remove().then(() => {
+        this.transitionTo('index');
+      });
+    }
+  }
+  ...
+});`
+
+### Models
+* A model can be fetched with the Ember.$.getJSON() utility:
+`export default Ember.Route.extend({
+  model() {
+    return Ember.$.getJSON('/items.json');
+  }
+});`
+* Return Value => ? (answer: No) => It return Promises
+* Or Ember Data
+`export default Ember.Route.extend({
+  model(params) {
+    return this.store.findRecord('item', params.item_id);
+  }
+});`
+
+### Services
+* Ember’s Injection API
+* An Ember.Service is a long-lived object (singleton) used to provide services to other Ember objects
+
+### Components
+* Components consist of two parts: a Javascript component file (that defines behavior) and its accompanying Handlebars template.
+`// app/components/item-display.js
+
+export default Ember.Component.extend({
+  isModelTwo: Ember.computed('model.id', function() {
+    return this.get('model.id') == 2;
+  })
+});`
+
+`{{!-- app/templates/components/item-display.hbs  --}}
+
+<h1>{{ model.text }}</h1>
+
+{{#if isModelTwo}}
+  <p><strong>OMG MODEL TWO!</strong></p>
+{{/if}}`
+* Component can include other components.
+
+
 ### Reference
 * [EmberJS Object Model](https://emberigniter.com/5-essential-ember-concepts/)
