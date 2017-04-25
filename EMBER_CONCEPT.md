@@ -14,3 +14,8 @@
 * Plain Javascript objects lack the ability to be dependent on other properties changes => Ember Model solve it.
 * Most objects in Ember, including routes, Ember Data models, services and components extend Ember.Object.
 * Use `object.id = "value"` but rather `object.set('id', "value")`
+
+### 2. ROUTING
+* Ember is URL-driven
+* Where to add? `router.js`
+* Use: `this.route('item', { path: '/items/:item_id' });`
