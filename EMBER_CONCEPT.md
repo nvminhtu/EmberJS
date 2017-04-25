@@ -19,3 +19,12 @@
 * Ember is URL-driven
 * Where to add? `router.js`
 * Use: `this.route('item', { path: '/items/:item_id' });`
+* Setup Route
+`export default Ember.Route.extend({
+  model(params) {
+    return {
+      id: params.item_id,
+      text: "This is item " + params.item_id
+    }
+  }
+});`
