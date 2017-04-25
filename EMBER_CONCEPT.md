@@ -72,13 +72,7 @@ export default Ember.Component.extend({
   })
 });`
 
-`{{!-- app/templates/components/item-display.hbs  --}}
-
-<h1>{{ model.text }}</h1>
-
-{{#if isModelTwo}}
-  <p><strong>OMG MODEL TWO!</strong></p>
-{{/if}}`
+`{{!-- app/templates/components/item-display.hbs  --}}<h1>{{ model.text }}</h1>{{#if isModelTwo}} <p><strong>OMG MODEL TWO!</strong></p>{{/if}}`
 * Component can include other components.
 
 
