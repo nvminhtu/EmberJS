@@ -10,6 +10,7 @@
 * [RSVP JS in EMBERJS](https://www.emberjs.com/api/classes/RSVP.html)
 
 ## EMBERJS OBJECT MODEL
+
 ### 1. OBJECT MODEL
 * Plain Javascript objects lack the ability to be dependent on other properties changes => Ember Model solve it.
 * Most objects in Ember, including routes, Ember Data models, services and components extend Ember.Object.
@@ -28,3 +29,6 @@
     }
   }
 });`
+
+### Reference
+* [EmberJS Object Model](https://emberigniter.com/5-essential-ember-concepts/)
