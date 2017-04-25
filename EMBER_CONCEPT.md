@@ -30,7 +30,7 @@
   }
 });`
 
-### Data Down, Actions Up
+### 3. Data Down, Actions Up
 *
 `export default Ember.Route.extend({
   actions: {
@@ -43,7 +43,7 @@
   ...
 });`
 
-### Models
+### 4. Models
 * A model can be fetched with the Ember.$.getJSON() utility:
 `export default Ember.Route.extend({
   model() {
@@ -58,11 +58,11 @@
   }
 });`
 
-### Services
+### 5. Services
 * Ember’s Injection API
 * An Ember.Service is a long-lived object (singleton) used to provide services to other Ember objects
 
-### Components
+### 6.Components
 * Components consist of two parts: a Javascript component file (that defines behavior) and its accompanying Handlebars template.
 `// app/components/item-display.js
 
